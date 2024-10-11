@@ -57,7 +57,7 @@ const alSmith = new HighSchool('Al E. Smith', 415, ['Baseball', 'Basketball', 'V
 alSmith.sportsTeams;
 ```
 
-🔮 ## Future Improvements
+## 🔮 Future Improvements
 
 - Add more school types like `MiddleSchool`.
 - Implement additional properties like `average test scores` or `school overview`.
