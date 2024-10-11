@@ -2,7 +2,7 @@
 
 ## 📖 Project Overview
 
-This project is part of the **Learn Intermediate JavaScript** course on Codecademy. It implements a digital school catalog for the New York City Department of Education, allowing quick reference for each school in the city. The project focuses on **object-oriented programming (OOP)** principles like inheritance, encapsulation, and polymorphism.
+This project implements a digital school catalog for the New York City Department of Education, allowing quick reference for each school in the city. The project focuses on **object-oriented programming (OOP)** principles like inheritance, encapsulation, and polymorphism.
 
 The main goal of this project is to demonstrate the application of OOP principles in a real-world scenario, by creating a catalog that efficiently manages data for different types of schools using JavaScript classes and inheritance.
 
@@ -64,4 +64,5 @@ alSmith.sportsTeams;
 - Build a `SchoolCatalog` class to manage different schools.
 
 ## 🙌 Acknowledgements
+- This project is part of the **Learn Intermediate JavaScript** course on Codecademy.
 - Thanks to Codecademy for the course material and inspiration.
